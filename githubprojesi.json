@@ -1,1 +1,22 @@
-
+{
+    "RİZE ": [
+        {
+            "isim": "KIZILAY AVM ",
+            "aciklama": "Dünyanın en büyük kerpiç camisi olmasının yanında UNESCO'nun Dünya Kültür Mirası listesinde yer alıyor ",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/gitprojesi/main/camı.jpg"
+        },
+        {
+            "isim": "ULUS ",
+            "aciklama": "Mali Ulusal Müzesi (National Museum of Mali), ahşap heykelleri masklar ile Orta Çağ ve Afrika’nın eski dönemlerinden kalma ipekli kumaşlar gibi el sanatlarının sergilendiği bir sanat mekânı.",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/gitprojesi/main/müze.jpg"
+        },
+        {
+            "isim": "MAMAK",
+            "aciklama": "Marul, soğan, limon suyu ve baharatlarla marine edilmiş tavuk veya etten oluşan bir yemektir. Mali'nin popüler bir et yemeğidir.",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/gitprojesi/main/yasa.jpg"
+        }
+        
+       
+    ]
+    
+}
